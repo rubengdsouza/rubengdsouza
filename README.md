@@ -52,5 +52,6 @@ An Embedded Software Developer in Germany
 ### 🔬 CI Tools:
 ### 🎨 Design Tools:
 ### 💻 IDEs/Editors:
+### ✍️ Blog Posts : 
 -->
 

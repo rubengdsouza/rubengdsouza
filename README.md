@@ -40,6 +40,8 @@ An Embedded Software Developer in Germany
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" **alt="CMake" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RasberryPi" **alt="RasberryPi" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" title="Infineon" alt="Infineon" width="80" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" title="Vector" alt="Vector" width="80" height="40"/>&nbsp;
 </p>
 
 ## 🔥 &nbsp; My Stats :

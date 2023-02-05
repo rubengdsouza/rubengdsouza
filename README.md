@@ -7,7 +7,7 @@ An Embedded Software Developer in Germany
 - 🔭 I’m working as a Software Engineer for building embedded ECUs for automobiles.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I love playing Rubik's cubes, solving puzzles, reading books and learning languages
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rubengdsouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://de.linkedin.com/in/rubengdsouza) [![XING](https://img.shields.io/badge/-rubengdsouza-%23006567.svg?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Ruben_Dsouza)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rubengdsouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://de.linkedin.com/in/rubengdsouza) [![XING](https://img.shields.io/badge/-rubengdsouza-%23006567.svg?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Ruben_Dsouza) [![Twitter](https://img.shields.io/badge/-rubengdsouza-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rubengdsouza)
 
 ## Skills
 

@@ -76,9 +76,97 @@ An Embedded Software Developer in Germany
 
 ### 🛠 Tools:
 <p>
-  <a href="">
-    <img src="" 
-         title="" alt="" width="40px" height="40px">
+  <a href="https://daringfireball.net/projects/markdown/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" 
+         title="Markdown" alt="Markdown" width="40px" height="40px">
+  </a>
+  <a href="https://www.atlassian.com/software/confluence">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" 
+         title="Confluence" alt="Confluence" width="40px" height="40px">
+  </a>
+  <a href="https://gcc.gnu.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" 
+         title="GCC" alt="GCC" width="40px" height="40px">
+  </a>
+  <a href="https://subversion.apache.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" 
+         title="SVN" alt="SVN" width="40px" height="40px">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" 
+         title="Git" alt="Git" width="40px" height="40px">
+  </a>
+  <a href="https://github.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" 
+         title="GitHub" alt="GitHub" width="40px" height="40px">
+  </a>
+  <a href="https://about.gitlab.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" 
+         title="GitLab" alt="GitLab" width="40px" height="40px">
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" 
+         title="Jenkins" alt="Jenkins" width="40px" height="40px">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
+         title="VSCode" alt="VSCode" width="40px" height="40px">
+  </a>  
+  <a href="https://www.anaconda.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" 
+         title="Anaconda" alt="Anaconda" width="40px" height="40px">
+  </a>  
+  <a href="https://www.canva.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" 
+         title="Canva" alt="Canva" width="40px" height="40px">
+  </a>  
+  <a href="https://cmake.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" 
+         title="CMake" alt="CMake" width="40px" height="40px">
+  </a>
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" 
+         title="Jira" alt="Jira" width="40px" height="40px">
+  </a>
+  <a href="https://www.vector.com/int/en/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" 
+         title="Vector" alt="Vector" width="40px" height="40px">
+  </a>
+  <a href="https://www.eclipse.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" 
+         title="Eclipse" alt="Eclipse" width="172px" height="40px">
+  </a>
+  <a href="https://notepad-plus-plus.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" 
+         title="Notepad++" alt="Notepad++" width="40px" height="40px">
+  </a>
+  <a href="https://www.diagrams.net/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" 
+         title="draw.io" alt="draw.io" width="40px" height="40px">
+  </a>
+  <a href="https://www.lauterbach.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/91/Lauterbach_Development_Tools_logo.svg" 
+         title="Lauterbach Trace32" alt="Lauterbach Trace32" width="40px" height="40px">
+  </a>
+  <a href="https://www.ibm.com/products/rational-clearcase">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/RationalSoftware.png" 
+         title="Rational Clearcase" alt="Rational Clearcase" width="40px" height="40px">
+  </a>
+  <a href="https://www.etas.com/en/products/inca_software_products.php">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/00/ETAS_Logo.jpg" 
+         title="ETAS INCA" alt="ETAS INCA" width="120px" height="40px">
+  </a>
+  <a href="https://www.ibm.com/products/rational-clearquest">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/320px-IBM_logo.svg.png" 
+         title="" alt="" width="120px" height="40px">
+  </a>
+  <a href="https://www.elektrobit.com/products/ecu/eb-tresos/studio-2/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EB_logo_small_lores.jpg" 
+         title="EB Tresos" alt="EB Tresos" width="40px" height="40px">
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" 
+         title="Microsoft Visio" alt="Microsoft Visio" width="40px" height="40px">
   </a>
   <a href="">
     <img src="" 
@@ -96,37 +184,24 @@ An Embedded Software Developer in Germany
     <img src="" 
          title="" alt="" width="40px" height="40px">
   </a>
-  <a href="">
-    <img src="" 
-         title="" alt="" width="40px" height="40px">
-  </a>
+
+
+
+
+
+
 
 </p>
 
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" **alt="GCC" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="SVN" **alt="SVN" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" **alt="CMake" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" title="Vector" alt="Vector" width="80" height="40"/>&nbsp;
-</p>
+<!--
 
 ## 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rubengdsouza&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubengdsouza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat&logo=Duolingo&logoColor=white)]
 ### 🔬 CI Tools:
 ### 🎨 Design Tools:

@@ -1,4 +1,4 @@
-
+<!--
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ## About Me
@@ -9,29 +9,101 @@ An Embedded Software Developer in Germany
 - ⚡ In my free time I love playing Rubik's cubes, solving puzzles, reading books and learning languages
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rubengdsouza-blue?style=flat&logo=Linkedin&logoColor=white)](https://de.linkedin.com/in/rubengdsouza) [![XING](https://img.shields.io/badge/-rubengdsouza-%23006567.svg?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Ruben_Dsouza) [![Twitter](https://img.shields.io/badge/-rubengdsouza-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rubengdsouza)
 
+
+
 ## Skills
 
 ### 💻 Microcontrollers
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" title="Infineon" alt="Infineon" width="80" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ST_logo_2020_blue_V.svg" title="ST Electronics" alt="ST Electronics" width="80" height="40"/>&nbsp;
+<p>
+  <a href="https://www.infineon.com/cms/en/product/microcontroller/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" 
+         title="Infineon" alt="Infineon" width="80px" height="40px">
+  </a>
+  <a href="https://www.st.com/en/automotive-microcontrollers.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ST_logo_2020_blue_V.svg" 
+         title="STMicroelectronics" alt="STMicroelectronics" width="80px" height="40px">
+  </a>
+</p>
+
+
+
 
 ### 🚗 Standards
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Autosar_Logo.svg" title="AUTOSAR" alt="AUTOSAR" width="140" height="40"/>&nbsp;
-<img src="https://www.misra.org.uk/app/themes/designreligion/assets/img/logo.svg" title="MISRA-C" alt="MISRA-C" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Asam_Logo_RGB_1031px_256dpi.png" title="ASAM" alt="ASAM" width="140" height="40"/>&nbsp;
+<p>
+  <a href="https://www.autosar.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Autosar_Logo.svg" 
+         title="AUTOSAR" alt="AUTOSAR" width="280px" height="25px">
+  </a>
+  <a href="https://www.asam.net/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Asam_Logo_RGB_1031px_256dpi.png" 
+         title="ASAM" alt="ASAM" width="150px" height="40px">
+  </a>
+</p>
 
 ### 📋 Languages:
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" **alt="Embedded C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" **alt="Perl" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" 
+         title="C" alt="C" width="40px" height="40px">
+  </a>
+  <a href="https://en.m.wikipedia.org/wiki/Embedded_C">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" 
+         title="Embedded C" alt="Embedded C" width="40px" height="40px">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
+         title="Python" alt="Python" width="40px" height="40px">
+  </a>
+  <a href="https://www.perl.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" 
+         title="Perl" alt="Perl" width="40px" height="40px">
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" 
+         title="Bash" alt="Bash" width="40px" height="40px">
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+         title="Java" alt="Java" width="40px" height="40px">
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" 
+         title="C++" alt="C++" width="40px" height="40px">
+  </a>
 </p>
 
+-->
+
 ### 🛠 Tools:
+<p>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+  <a href="">
+    <img src="" 
+         title="" alt="" width="40px" height="40px">
+  </a>
+
+</p>
+
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>&nbsp;

@@ -11,6 +11,15 @@ An Embedded Software Developer in Germany
 
 ## Skills
 
+### 💻 Microcontrollers
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" title="Infineon" alt="Infineon" width="80" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ST_logo_2020_blue_V.svg" title="ST Electronics" alt="ST Electronics" width="80" height="40"/>&nbsp;
+
+### 🚗 Standards
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Autosar_Logo.svg" title="AUTOSAR" alt="AUTOSAR" width="140" height="40"/>&nbsp;
+<img src="https://www.misra.org.uk/app/themes/designreligion/assets/img/logo.svg" title="MISRA-C" alt="MISRA-C" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Asam_Logo_RGB_1031px_256dpi.png" title="ASAM" alt="ASAM" width="140" height="40"/>&nbsp;
+
 ### 📋 Languages:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
@@ -20,7 +29,6 @@ An Embedded Software Developer in Germany
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </p>
 
 ### 🛠 Tools:
@@ -36,11 +44,8 @@ An Embedded Software Developer in Germany
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" **alt="Putty" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" **alt="CMake" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RasberryPi" **alt="RasberryPi" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Infineon-Logo.svg" title="Infineon" alt="Infineon" width="80" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" title="Vector" alt="Vector" width="80" height="40"/>&nbsp;
 </p>
 
